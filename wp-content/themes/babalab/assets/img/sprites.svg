@@ -1,0 +1,24 @@
+<svg viewBox="0 0 24 24"  xmlns="http://www.w3.org/2000/svg" style="display:none">
+
+	<symbol viewBox="0 0 14 8" id="drop-down-arrow">
+		<path d="M1 1L7 7L13 1" stroke="currentColor" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+	</symbol>
+
+	<symbol viewBox="0 0 39 38" id="star">
+		<path d="M18.5489 2.92705C18.8483 2.00574 20.1517 2.00574 20.4511 2.92705L23.5413 12.4377C23.6751 12.8497 24.0591 13.1287 24.4923 13.1287H34.4924C35.4611 13.1287 35.8639 14.3683 35.0802 14.9377L26.9899 20.8156C26.6395 21.0702 26.4928 21.5216 26.6267 21.9336L29.7169 31.4443C30.0162 32.3656 28.9617 33.1317 28.178 32.5623L20.0878 26.6844C19.7373 26.4298 19.2627 26.4298 18.9122 26.6844L10.822 32.5623C10.0383 33.1317 8.98378 32.3656 9.28314 31.4443L12.3733 21.9336C12.5072 21.5216 12.3605 21.0702 12.0101 20.8156L3.91982 14.9377C3.13611 14.3683 3.53889 13.1287 4.50761 13.1287H14.5077C14.9409 13.1287 15.3249 12.8497 15.4587 12.4377L18.5489 2.92705Z" fill="currentColor"/>
+	</symbol>
+
+	<symbol viewBox="0 0 60 60" id="avatar">
+		<path d="M30 31C32.7614 31 35 28.7614 35 26C35 23.2386 32.7614 21 30 21C27.2386 21 25 23.2386 25 26C25 28.7614 27.2386 31 30 31Z" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+		<path d="M38 39C38 36.8783 37.1571 34.8434 35.6569 33.3431C34.1566 31.8429 32.1217 31 30 31C27.8783 31 25.8434 31.8429 24.3431 33.3431C22.8429 34.8434 22 36.8783 22 39" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+	</symbol>
+
+	<symbol viewBox="0 0 16 16" id="arrow-prev">
+		<path d="M11 2L5 8L11 14" stroke="currentColor" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>	
+	</symbol>
+
+	<symbol viewBox="0 0 16 16" id="arrow-next">
+		<path d="M5 2L11 8L5 14" stroke="currentColor" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>	
+	</symbol>
+
+</svg>
